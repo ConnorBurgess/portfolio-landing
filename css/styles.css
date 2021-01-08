@@ -29,6 +29,7 @@
  body {
   background-color: #a4aaa9;
   font-family: 'Roboto Slab', serif;
+  
 }
 
 /* Align section titles */
@@ -40,22 +41,23 @@
 
 .font_zilla {
   font-family: 'Zilla Slab Highlight', cursive;
+  margin: auto;
 }
 
 #title_projects {
-  margin-top: 20px;
-  margin-left: 20px;
-  margin-bottom: 20px;
+
+
 }
 
 #title_about {
-  margin-top: 10px;
+
 }
 #subtitle {
   margin-left: 220px;
 }
 .row3 {
   margin-top: 20px;
+  float: right;
 }
 
 #technology_title {
@@ -66,7 +68,7 @@
 
 }
 
-/*Align images */
+/*Align and size images */
 #profile {
   display: block;
   width: 10%;
