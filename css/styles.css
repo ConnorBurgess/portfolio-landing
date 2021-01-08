@@ -10,8 +10,21 @@
   margin-right: 2px;
  }
 
+ .card-title {
+  background-color: #AF9FA5;
+ 
+ }
+
+ .card {
+   float: right;
+   position:aboslute;
+   margin-bottom: 40px;
+ }
+ .card-body {
+  background-color: #E4DEE4;
+ }
  body {
-  background-color: #a4bcd4;
+  background-color: #92898A;
   font-family: 'Roboto Slab', serif;
 }
 
@@ -23,8 +36,8 @@
 }
 
 #title_projects {
-  margin-top: 100px;
-  margin-left: 80px;
+  margin-top: 20px;
+  margin-left: 20px;
   margin-bottom: 20px;
 }
 
@@ -41,7 +54,7 @@
 
 #technology_title {
   width: 75%;
-  margin-top: 150px;
+  margin-top: 20px;
   margin-left: 40px;
   margin-bottom: 20px;  
 
