@@ -11,8 +11,8 @@
  }
 
  .card-title {
-  background-color: #23395B;
-  color: #CBF7ED;
+  margin-left: 20px;
+  color: #000000;
  
  }
 
@@ -22,10 +22,10 @@
    margin-bottom: 40px;
  }
  .card-body {
-  background-color: #406E8E;
+  background-color: #a2bdb0;
  }
  body {
-  background-color: #8EA8C3;
+  background-color: #a4aaa9;
   font-family: 'Roboto Slab', serif;
 }
 
