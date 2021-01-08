@@ -34,8 +34,12 @@
 /* Align section titles */
 #title {
   margin-left: 180px;
-  font-family: 'Zilla Slab Highlight', cursive;
+  font-family: 'Roboto Slab', serif;
   font-size: 60px;
+}
+
+.font_zilla {
+  font-family: 'Zilla Slab Highlight', cursive;
 }
 
 #title_projects {
