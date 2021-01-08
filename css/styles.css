@@ -1,0 +1,23 @@
+.container {
+  border: 2px solid #77d1b6;
+  border-right: 0px;
+  margin-left: 150px;
+  width: auto;
+}
+
+.row {
+  margin-left: 2px;
+  margin-right: 2px;
+ }
+
+ body {
+    background-color: #a2d1bb;
+    font-family: 'Roboto Slab', serif;
+  }
+
+#title {
+  margin-left: 180px;
+}
+#subtitle {
+  margin-left: 220px;
+}
