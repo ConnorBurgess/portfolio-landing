@@ -12,7 +12,7 @@
 
 ## Description
 
-_This project serves as a portfolio landing page to demonstrate programming skills_
+_This project serves as a portfolio landing page to demonstrate knowledge of HTML, CSS, and Bootstrap._
 
 
 ## Setup/Installation Requirements
@@ -21,6 +21,9 @@ _This project serves as a portfolio landing page to demonstrate programming skil
 * _Type $ git clone https://github.com/ConnorBurgess/portfolio-landing_
 * _Type $ cd portfolio-landing_
 * _Open index.html_
+
+## gh-pages
+
 
 
 ## Known Bugs

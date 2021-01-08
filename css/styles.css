@@ -68,11 +68,13 @@
 }
 
 .technologies {
+  border: solid black;
+  background-color: rgb(194, 134, 24);
+  border-width: 5px;
+  margin-bottom: 200px; 
+  margin-top: 130px; 
   margin-left: 100px;
-    border: solid black;
-    border-width: 5px;
-    background-color: rgb(194, 134, 24);
-    margin-bottom: 300px; 
+  padding-top: 20px;
 }
 
 #tech_img {
