@@ -2,6 +2,7 @@
   border: 2px solid #77d1b6;
   border-right: 0px;
   margin-left: 150px;
+  margin-top: 100px;
   width: auto;
 }
 
@@ -20,4 +21,26 @@
 }
 #subtitle {
   margin-left: 220px;
+}
+.row3 {
+  margin-top: 100px;
+}
+
+#tech_img img {
+  
+}
+
+#html {
+  width: 15%
+}
+
+#css {
+  margin-top: 13px;
+  width: 11%
+}
+
+#bootstrap {
+  margin-left: 10px;
+  margin-top: 8px;
+  width: 12%;
 }
