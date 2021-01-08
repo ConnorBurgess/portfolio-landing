@@ -17,13 +17,15 @@
  }
 
  .card {
-   float: right;
    position:aboslute;
+   margin-left: 100px;
    margin-bottom: 40px;
  }
+
  .card-body {
   background-color: #a2bdb0;
  }
+ 
  body {
   background-color: #a4aaa9;
   font-family: 'Roboto Slab', serif;
@@ -43,14 +45,13 @@
 }
 
 #title_about {
-  margin-top: 20px;
-  margin-left: 120px;
+  margin-top: 10px;
 }
 #subtitle {
   margin-left: 220px;
 }
 .row3 {
-  margin-top: 100px;
+  margin-top: 20px;
 }
 
 #technology_title {
