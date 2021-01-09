@@ -16,15 +16,14 @@ _This project serves as a portfolio landing page to demonstrate knowledge of HTM
 
 
 ## Setup/Installation Requirements
-* _Open termainl_
+* _Open terminal_
 * _Type $ cd desktop_
 * _Type $ git clone https://github.com/ConnorBurgess/portfolio-landing_
 * _Type $ cd portfolio-landing_
 * _Open index.html_
 
 ## gh-pages
-
-
+* https://connorburgess.github.io/portfolio-landing/git
 
 ## Known Bugs
 
