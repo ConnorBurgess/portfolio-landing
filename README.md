@@ -23,7 +23,7 @@ _This project serves as a portfolio landing page to demonstrate knowledge of HTM
 * _Open index.html_
 
 ## gh-pages
-* https://connorburgess.github.io/portfolio-landing/git
+* https://connorburgess.github.io/portfolio-landing/
 
 ## Known Bugs
 
