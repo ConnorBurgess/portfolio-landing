@@ -7,7 +7,6 @@
 * _HTML_ 
 * _CSS_
 * _Bootstrap_
-* _VS Code_
 
 
 ## Description
@@ -31,8 +30,8 @@ _This project serves as a portfolio landing page to demonstrate knowledge of HTM
 
 ## License
 
-* _MIT License_
-
+* _[MIT license](https://mit-license.org/)_
+* _Copright (c) 2020 Connor Burgess_
 ## Contact Information
 
 _Connorburgesscodes@gmail.com_
