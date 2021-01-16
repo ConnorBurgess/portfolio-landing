@@ -10,9 +10,8 @@ body {
 
 /* Bootstrap card elements */
 .container {
-  border-right: 0px;
-  margin-left: 150px;
-  margin-top: 100px;
+  margin-left: 3vw;
+  margin-top: 2vw;
   width: auto;
 }
 
@@ -21,15 +20,17 @@ body {
   color: #000000;
 }
 
-
- .card {
-   position:aboslute;
-   margin-left: 100px;
-   margin-bottom: 40px;
-   border: solid rgb(78, 75, 75);
+.contactCard {
+  margin-left: 45vw;
 }
 
- .card-body {
+.card {
+  margin-left: 100px;
+  margin-bottom: 40px;
+  border: solid rgb(78, 75, 75);
+}
+
+.card-body {
   background-color: #a2bdb0;
 }
 
@@ -46,7 +47,7 @@ body {
 
 
 .projects {
-  margin-top: 50px;
+margin-bottom: 5vw;
 }
 
 .projects_background {
@@ -55,6 +56,7 @@ body {
 
 .row3 {
   margin-top: 20px;
+  margin-right: 50px;
   float: right;
 }
 
